@@ -1,4 +1,4 @@
 name: BotLauncher
 version: '1.0-SNAPSHOT'
 main: xyz.swift.botlauncher.BotLauncher
-api-version: '1.18'
+api-version: '1.13'
